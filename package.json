@@ -1,0 +1,29 @@
+{
+	"name": "02-Homework",
+	"version": "1.0.0",
+	"description": "## Your Task",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/benjaminbtrance/OOP-Team-Profile-Generator.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/benjaminbtrance/OOP-Team-Profile-Generator/issues"
+	},
+	"homepage": "https://github.com/benjaminbtrance/OOP-Team-Profile-Generator#readme",
+	"dependencies": {
+		"inquirer": "^8.1.1"
+	},
+	"devDependencies": {
+		"jest": "^27.0.6"
+	}
+}
