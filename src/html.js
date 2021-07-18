@@ -1,4 +1,3 @@
-// Static head HTML
 const htmlTop = `
 <!DOCTYPE html>
 <html lang="en">
